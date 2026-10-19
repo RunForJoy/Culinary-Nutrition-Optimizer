@@ -5,3 +5,4 @@ joblib==1.5.3
 python-dotenv==1.2.2
 pycountry==26.2.16
 tqdm==4.68.3
+streamlit
