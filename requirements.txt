@@ -1,0 +1,7 @@
+pandas==3.0.3
+numpy==2.5.0
+scikit-learn==1.9.0
+joblib==1.5.3
+python-dotenv==1.2.2
+pycountry==26.2.16
+tqdm==4.68.3
